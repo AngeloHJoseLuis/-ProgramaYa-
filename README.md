@@ -1,3 +1,3 @@
 ## ProgramaYa
 
-Este programa es donde demuestro mis habilidades en HTML, CSS y Git, GitHub.
+Programa donde me permite demostrar mis habilidades en HTML, CSS y Git, GitHub.
